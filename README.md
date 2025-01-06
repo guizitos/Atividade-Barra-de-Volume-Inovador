@@ -33,17 +33,17 @@ A interação é feita com cliques e arrasto do mouse.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/volume-knob.git
+   git clone https://github.com/guizitos/Atividade-Barra-de-Volume-Inovador.git
    ```
 
 2. Acesse o diretório do projeto:
    ```bash
-   cd volume-knob
+   cd BotaoInovador
    ```
 
 3. Execute o script Python:
    ```bash
-   python volume_knob.py
+   python BotaoInovador.ipynb
    ```
 
 4. A interface do controle de volume será exibida.
